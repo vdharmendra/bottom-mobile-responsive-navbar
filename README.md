@@ -32,5 +32,5 @@
 <img src="./desktop-gif.gif" alt="desktop responsive navbar" width="575px" />
 </a>
 <a href="https://www.behance.net/gallery/211205955/Mobile-Bottom-Navbar-like-Mobile-Application" target="_blank" >
-<img src="./mobile-gif.gif" alt="bottom mobile responsive navbar" width="575px" />
+<img src="./mobile-gif.gif" alt="bottom mobile responsive navbar" width="375px" />
 </a>
