@@ -35,6 +35,7 @@
 <br>
 <br>
 <br>
+<hr />
 --mobile design<br>
 <a href="https://www.behance.net/gallery/211205955/Mobile-Bottom-Navbar-like-Mobile-Application" target="_blank" >
 <img src="./mobile-gif.gif" alt="bottom mobile responsive navbar" width="575px" />
