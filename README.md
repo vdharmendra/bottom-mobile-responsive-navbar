@@ -28,7 +28,7 @@
   <li>desgin in Abode XD</li>
 </ul>
 <br>
---desktop design<br>
+<h3>desktop design</h3><br>
 <a href="https://www.behance.net/gallery/211205955/Mobile-Bottom-Navbar-like-Mobile-Application" target="_blank" >
 <img src="./desktop-gif.gif" alt="desktop responsive navbar" width="575px" />
 </a>
@@ -36,7 +36,7 @@
 <br>
 <br>
 <hr />
---mobile design<br>
+<h3>mobile design</h3><br>
 <a href="https://www.behance.net/gallery/211205955/Mobile-Bottom-Navbar-like-Mobile-Application" target="_blank" >
 <img src="./mobile-gif.gif" alt="bottom mobile responsive navbar" width="575px" />
 </a>
