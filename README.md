@@ -28,11 +28,11 @@
   <li>desgin in Abode XD</li>
 </ul>
 <br>
-##desktop design
+--desktop design<br>
 <a href="https://www.behance.net/gallery/211205955/Mobile-Bottom-Navbar-like-Mobile-Application" target="_blank" >
 <img src="./desktop-gif.gif" alt="desktop responsive navbar" width="575px" />
 </a>
-##mobile design
+--mobile design<br>
 <a href="https://www.behance.net/gallery/211205955/Mobile-Bottom-Navbar-like-Mobile-Application" target="_blank" >
 <img src="./mobile-gif.gif" alt="bottom mobile responsive navbar" width="575px" />
 </a>
